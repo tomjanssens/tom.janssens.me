@@ -2,8 +2,7 @@
 name: Tom Janssens
 email: tom@janssens.me
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://tom.janssens.me"
 
 # Build settings
 markdown: kramdown
