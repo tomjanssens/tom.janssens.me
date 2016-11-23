@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="apple-mobile-web-app-title" content="{{ site.name }}">
 
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon.png' | prepend: site.url }}">
+    <link rel="icon" type="image/png" sizes="512x512" href="{{ '/images/favicon-512.png' | prepend: site.url }}">
+
     <title>{{ page.title }}</title>
 
     {% if page.image %}
@@ -15,7 +18,6 @@
     <meta name="twitter:description" content="{{ page.description }}" />
     <meta name="twitter:image" content="{{ page.image | prepend: site.url }}" />
     {% endif %}
-
 </head>
 
 <body>
