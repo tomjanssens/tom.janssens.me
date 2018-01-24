@@ -11,7 +11,7 @@ image: /images/avatar.jpg
 
 ## About me
 
-- I work at [Timble](https://www.timble.net) & [Janss](https://www.janss.be)
+- I work at [Marsvaardig](https://www.marsvaardig.eu) & [Janss](https://www.janss.be)
 - I share thoughts on [Twitter](https://twitter.com/{{ site.twitter }})
 - I write stories on [Medium](https://medium.com/@janssenstom)
 - I commit code on [GitHub](https://github.com/tomjanssens)
